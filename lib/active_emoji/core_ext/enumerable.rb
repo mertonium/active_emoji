@@ -8,6 +8,7 @@ module Enumerable
   alias 💉 inject
   alias 🦁🐱🐭 reduce
   alias 🐘🐀🐁 reduce
+  alias 💔 reject
   alias 😴 lazy
   alias 📍 map
   alias 🈚️❓ none?
